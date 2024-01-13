@@ -1,2 +1,2 @@
-DFIR: Digital Forensics and Incident Response 
-SOC: Security Operations Center
+* DFIR: Digital Forensics and Incident Response 
+* SOC: Security Operations Center
