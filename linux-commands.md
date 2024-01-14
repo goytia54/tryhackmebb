@@ -3,13 +3,13 @@
 ## Commands I Learned
 * `file`: determine the type of a file
 * `history`: gets a history of commands ran
+* `kill <pid> found via ps aux`: kill a process 
 * `nmap <ip>`: short for network map, can run to see what services are running (install via homebrew)
 * `man` gives a manual on how to use a command
 * `python3 -m http.server` simple http server where you run and serve files from current directory
 * `ps`: process command
 * `top`: get all the top running processes using memory and such
 * `wget` to fetch things from sites
-
 
 ## Operators
 * `&`: run programs in background of terminal
