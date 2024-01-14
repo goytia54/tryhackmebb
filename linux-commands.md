@@ -1,6 +1,7 @@
 # Linux Commands I Learned
 * `history`: gets a history of commands ran
 * `nmap <ip>`: short for network map, can run to see what services are running (install via homebrew)
+* `man` gives a manual on how to use a command
 
 ## Operators
 * `&`: run programs in background of terminal
