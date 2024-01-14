@@ -5,8 +5,11 @@
 * `history`: gets a history of commands ran
 * `nmap <ip>`: short for network map, can run to see what services are running (install via homebrew)
 * `man` gives a manual on how to use a command
-* `wget` to fetch things from sites
 * `python3 -m http.server` simple http server where you run and serve files from current directory
+* `ps`: process command
+* `top`: get all the top running processes using memory and such
+* `wget` to fetch things from sites
+
 
 ## Operators
 * `&`: run programs in background of terminal
