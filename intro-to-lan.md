@@ -39,3 +39,15 @@
 * Network Address: start of network
 * Host Address: used to identify a device on the subnet
 * Default Gateway: default gateway
+
+## ARP Protocol
+* Address Resolution Protcol  
+* Tech responsible for devices identifying itself
+* Uses a cache
+
+## DHCP Protocl
+* Dynamic Host Configuration Protcol
+* Discover: can I get an IP address
+* Offer: sure here you go
+* Request: I will use this IP address
+* Ack: I have you down for this IP address
