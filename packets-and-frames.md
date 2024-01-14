@@ -31,3 +31,23 @@
 * DATA: sending of data
 * FIN: closing the connection cleanly
 * RST: packet will end all connection
+
+## UDP/IP
+* Another protocol to communicate
+* Stateless, no three way handshake
+
+### UDP packet headers
+* TTL
+* Source Address
+* Destination Address
+* Source Port
+* Destination Port
+* Data
+
+### Different Type of Ports
+* FTP File transfer Protocol (21)
+* SSH Secure shell (22)
+* HTTP Hypertext transfer protocol (80)
+* HTTPS Hypertext transfer protocol secure: uses encryption (443)
+* SMB Server Message Block (445) share devices like printers
+* Remote Desktop Protocol (3389)
