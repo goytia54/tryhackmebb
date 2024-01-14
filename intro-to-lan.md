@@ -30,3 +30,5 @@
 * Aggregate devices using ethernet
 
 ### Switch
+* Connect to a router
+* Connects to multiple devices as well so we can spread out the i/o from router
