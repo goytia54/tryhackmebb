@@ -1,4 +1,6 @@
-# Linux Commands I Learned
+# Linux 
+
+## Commands I Learned
 * `file`: determine the type of a file
 * `history`: gets a history of commands ran
 * `nmap <ip>`: short for network map, can run to see what services are running (install via homebrew)
@@ -9,3 +11,9 @@
 * `&&`: combine multiple commands together
 * `>`: redirector
 * `>>`: redirector but also appends
+
+## Commone Directories
+* `/etc`: common for system files by operating system
+* `/var`: variable data, contains application logs
+* `root`: home for root use
+* `tmp`: short for temporary, volatile (good for pen testing as any user can write to this)
