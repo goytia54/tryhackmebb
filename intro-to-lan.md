@@ -32,3 +32,10 @@
 ### Switch
 * Connect to a router
 * Connects to multiple devices as well so we can spread out the i/o from router
+
+## Subnetting
+* Splitting up a network into smaller networks
+* Use IP address
+* Network Address: start of network
+* Host Address: used to identify a device on the subnet
+* Default Gateway: default gateway
