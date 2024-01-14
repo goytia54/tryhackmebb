@@ -2,6 +2,7 @@
 
 ## Commands I Learned
 * `file`: determine the type of a file
+* `fg`: bring process to fore ground
 * `history`: gets a history of commands ran
 * `kill <pid> found via ps aux`: kill a process 
 * `nmap <ip>`: short for network map, can run to see what services are running (install via homebrew)
