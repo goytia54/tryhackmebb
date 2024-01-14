@@ -17,3 +17,7 @@
 * Media access control
 * `a4:c3:f0(vendor who built):85:ac:2d(unique network interface)`
 * They can make or spoofed
+
+## Ping
+* Uses internet control message protocol
+* How long it takes to another device
