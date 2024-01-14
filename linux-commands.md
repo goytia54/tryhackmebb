@@ -1,4 +1,7 @@
-# Linux 
+# Linux
+
+## cron
+* MIN (minute) HOUR (hour) DOM (day of month) MON (month) DOW (day of week) CMD
 
 ## Commands I Learned
 * `file`: determine the type of a file
