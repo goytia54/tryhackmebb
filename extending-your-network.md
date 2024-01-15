@@ -20,3 +20,12 @@
 
 ### Stateless Firewall
 * Uses a static set of rules to see if packets are allowed, indivdual packets
+
+## VPN Basics
+* Virtual Private Network
+* Technology that allowes devices on seperate networks to communicate securely over the internet in a tunnel
+
+### VPN Technologies
+* PPP: simmilar to ssh, must have private key and cert to connect, not routable, encrypts data
+* PPTP: Point To Point Tunneling, allows data from PPP to travel and leave a network
+* IPSec: encrypts data using the IP framework, harder to set up
