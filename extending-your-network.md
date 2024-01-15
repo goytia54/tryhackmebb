@@ -29,3 +29,13 @@
 * PPP: simmilar to ssh, must have private key and cert to connect, not routable, encrypts data
 * PPTP: Point To Point Tunneling, allows data from PPP to travel and leave a network
 * IPSec: encrypts data using the IP framework, harder to set up
+
+## Routers
+* dedicated devices for routing
+
+## Swithces
+### Layer 2 Switch
+* used for data link layer
+
+### Layer 3 Switch
+* Used for network switch, used for virtual lan
