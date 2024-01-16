@@ -30,3 +30,5 @@
 
 ## Request Order
 Request -> Local IP Cache Check -> ISP IP Cache Check -> Intenet IP Cache Check -> Authoritative DNS -> WAF -> Load balancer -> Connect to web  server -> HTTP Request -> Web application -> Serve HTML
+
+![Screen Shot 2024-01-15 at 9 03 59 PM](https://github.com/goytia54/tryhackmebb/assets/13384055/dbe51105-8e1b-467b-8d10-420276fe17ac)
