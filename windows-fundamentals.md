@@ -47,3 +47,6 @@
 
 ## Control Panel
 * Make more intense changes
+
+## Task Manager
+* [Blog Post](https://www.howtogeek.com/405806/windows-task-manager-the-complete-guide/)
