@@ -1,4 +1,4 @@
-# http in detail
+# HTTP In Detail
 
 ## HTTP(S)
 Hyper Text Transfer Protocol (Secure)
