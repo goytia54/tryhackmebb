@@ -142,3 +142,14 @@
 #### Public
 * Public profile for public networks
 
+### App & Browser Control
+* Microsoft Defender SmartScreen
+  * Protects against phising or malware websites/applications and downloading bad files
+ 
+### Device Security
+* Core isolation: memory integrity, prevents malicious code into high security processes
+* Security Processor: Trusted Platform Module, allowing for additional encryption
+
+## BitLocker
+* Drive encryption to prevent data theft or exposure from lost or stolen computers
+
