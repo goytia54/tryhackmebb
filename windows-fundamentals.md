@@ -79,4 +79,22 @@
 * Hardware Resources
 * Components
 * Software Environment: Contains enviromental variables
-  
+
+#### Resource Monitor
+* resmon
+* Advanced resource monitoring
+
+#### Command Prompt
+* cmd
+* Example commands
+ * `hostname`: computer name
+ * `whoami`: logged in user
+ * `ipconfig`: command will show the network address settings
+ * `/?` is the like manual for commands
+ * `cls` clear command prompty
+ * `netstat` displays protocol statistics for TCP/ICP
+ * `net` by itself is a command with many options, can run with `net help`
+
+#### Windows Registry
+* regedit
+* Central database used to store info needed to configure system, application and hardware devices
