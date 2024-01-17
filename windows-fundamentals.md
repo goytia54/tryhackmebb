@@ -50,3 +50,33 @@
 
 ## Task Manager
 * [Blog Post](https://www.howtogeek.com/405806/windows-task-manager-the-complete-guide/)
+
+## System Configurations
+* MSConfig is for advance troubleshooting, to help and diagnose startup issues
+
+### General Tab
+* Select what devices and services for windows to load on boot
+### Boot Tab
+* Define boot options
+### Services
+* Special type of application that run in background
+
+#### Computer Management Tool
+* compmgmt
+* System tools
+  * Task Scheduler
+  * Event Viewer: good for audit trail
+  * Shared Folders
+  * Local Users and Groups `lusrmgr.msc`
+  * Performance: looking at performance of machine
+  * Device Manager: Allow us to configure/disable hardware
+* Storage
+* Services and Applications
+
+#### System Information
+* msinfo32
+* Gathers information about computer and displays a comprehensive manner
+* Hardware Resources
+* Components
+* Software Environment: Contains enviromental variables
+  
