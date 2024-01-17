@@ -87,13 +87,13 @@
 #### Command Prompt
 * cmd
 * Example commands
- * `hostname`: computer name
- * `whoami`: logged in user
- * `ipconfig`: command will show the network address settings
- * `/?` is the like manual for commands
- * `cls` clear command prompty
- * `netstat` displays protocol statistics for TCP/ICP
- * `net` by itself is a command with many options, can run with `net help`
+  * `hostname`: computer name
+  * `whoami`: logged in user
+  * `ipconfig`: command will show the network address settings
+  * `/?` is the like manual for commands
+  * `cls` clear command prompty
+  * `netstat` displays protocol statistics for TCP/ICP
+  * `net` by itself is a command with many options, can run with `net help`
 
 #### Windows Registry
 * regedit
@@ -106,28 +106,39 @@
 ## Windows Security
 * Available in settings
 * Various protection areas
- * Virus and threat protection
- * Firewall and network protection
- * App & Browser control
- * Device security
+   * Virus and threat protection
+   * Firewall and network protection
+   * App & Browser control
+   * Device security
 
 ### Virus & Threat Protection
-* Two parts
- * Current Threats
+* Current Threats
   * Scan Options
-   * quick scan: check where threats are usually found
-   * full scan: all computer scan
-   * custom scan: choose files
+     * quick scan: check where threats are usually found
+     * full scan: all computer scan
+     * custom scan: choose files
   * Threat History
-   * last scan
-   * quarantined threats
-   * allowed threats
- * Virus & threat protection settings
-  * real time protection - locates and stops malware from installing or running on your device
-  * cloud delivered protection: latest protection from information from the cloud
-  * automatic sample submission: send samples to microsoft to help them defend
-  * controlled folder access: protect files and folders
-  * Exclusions: anti virus won't scan here
-  * Notifications: windows defender antivirus will sent notifications
- * Ransome wear
-    
+     * last scan
+     * quarantined threats
+     * allowed threats
+  * Virus & threat protection settings
+     * real time protection - locates and stops malware from installing or running on your device
+     * cloud delivered protection: latest protection from information from the cloud
+     * automatic sample submission: send samples to microsoft to help them defend
+     * controlled folder access: protect files and folders
+     * Exclusions: anti virus won't scan here
+     * Notifications: windows defender antivirus will sent notifications
+  * Ransomeware protection
+     * controlled folder accesss
+
+### Firewall Protection
+* Control whats comes in and out of the ports
+* Have many firewall profiles
+
+#### Domain
+* networks where the host system cna authenticate to a domain controller
+#### Private
+* User assigned profile
+#### Public
+* Public profile for public networks
+
