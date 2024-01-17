@@ -98,3 +98,36 @@
 #### Windows Registry
 * regedit
 * Central database used to store info needed to configure system, application and hardware devices
+
+## Windows Update
+* Provides security updates, feature enhancements, and patches for OS and other products such as defender
+* `control /name Microsoft.WindowsUpdate`
+
+## Windows Security
+* Available in settings
+* Various protection areas
+ * Virus and threat protection
+ * Firewall and network protection
+ * App & Browser control
+ * Device security
+
+### Virus & Threat Protection
+* Two parts
+ * Current Threats
+  * Scan Options
+   * quick scan: check where threats are usually found
+   * full scan: all computer scan
+   * custom scan: choose files
+  * Threat History
+   * last scan
+   * quarantined threats
+   * allowed threats
+ * Virus & threat protection settings
+  * real time protection - locates and stops malware from installing or running on your device
+  * cloud delivered protection: latest protection from information from the cloud
+  * automatic sample submission: send samples to microsoft to help them defend
+  * controlled folder access: protect files and folders
+  * Exclusions: anti virus won't scan here
+  * Notifications: windows defender antivirus will sent notifications
+ * Ransome wear
+    
