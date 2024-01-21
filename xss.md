@@ -1,9 +1,9 @@
-# XXS
+# XSS
 * Cross-Site Scripting
 * Based on JavaScript
 * Injection attack where malicious javascript gets injected into a web application
 
-## XXS Payload
+## XSS Payload
 * JS code we want to execute on target computer
 * Can use `alert` method to find entry points
   * `<script>alert('XSS');</script>`
