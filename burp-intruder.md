@@ -7,3 +7,6 @@
 
 ## Battering Ram
 * Single
+
+## Pitchfork
+* It is like running multiple snipers at a time
