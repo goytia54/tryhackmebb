@@ -9,4 +9,4 @@
 * Single
 
 ## Pitchfork
-* It is like running multiple snipers at a time
+* It is like running multiple snipers at a time, 20 payloads at a time
