@@ -9,3 +9,12 @@
 8. Software and Data Integrity Failures
 9. Security Logging & Monitoring Failures
 10. Server-Side Request Forgery (SSRF)
+
+## Broken Access Control
+* If everyday user can access a page they are able to, then broken access control
+* Allows users to bypass authorisation, view sensitive information or perform task they aren't suppose to
+
+### IDOR
+* Insecure Direct Object Reference: access resources you normally should not be able to see
+* Object means something like a file, user, or anything you shouldn't be able to see without proper authorization
+* Bascially being able to change endpoints as so `/object=1` can also access `/object=2` 
