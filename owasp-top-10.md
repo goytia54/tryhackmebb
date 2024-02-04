@@ -18,3 +18,18 @@
 * Insecure Direct Object Reference: access resources you normally should not be able to see
 * Object means something like a file, user, or anything you shouldn't be able to see without proper authorization
 * Bascially being able to change endpoints as so `/object=1` can also access `/object=2` 
+
+## Cryptographic Failures
+* Vulnerability arising from the misue or lack of use cryptogrpahic algos to protect sensitive information
+* Man in the middle attacks can occur where a hacker directs to there application so they can gather encrypted information to try and decrypt lady
+
+### Databases
+* Most common place to store data, using SQL
+* Databases can also be stored as a files
+
+#### Flat File Database
+* `sqlite3` command for SQLite database
+* `sqlite3 <db>` to access
+* `.tables`
+
+### Kali Linux
