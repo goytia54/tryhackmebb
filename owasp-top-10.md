@@ -32,4 +32,8 @@
 * `sqlite3 <db>` to access
 * `.tables`
 
+
+
 ### Kali Linux
+
+
