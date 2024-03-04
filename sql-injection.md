@@ -42,3 +42,6 @@
 * Prepared statements ensuring code does not change
 * Input validation
 * Escaping user input
+
+## Helpful Commands
+* `' OR 1=1--`, where the `OR 1=1` will always evaulate a prior statment to true and the `--` comments out the remaing statements
