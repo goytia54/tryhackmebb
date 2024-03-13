@@ -26,3 +26,5 @@
 * `/var`: variable data, contains application logs
 * `root`: home for root use
 * `tmp`: short for temporary, volatile (good for pen testing as any user can write to this)
+
+## Passive Reconnaissance
