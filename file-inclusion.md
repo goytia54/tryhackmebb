@@ -1,4 +1,5 @@
-![image](https://github.com/goytia54/tryhackmebb/assets/13384055/7b904686-234c-49a1-9d86-70de298c478a)# File Inclusion
+![image](https://github.com/goytia54/tryhackmebb/assets/13384055/7b904686-234c-49a1-9d86-70de298c478a)
+# File Inclusion
 * Being able to access files/directories we shouldn't be able too
 
 ## Path Traversal
