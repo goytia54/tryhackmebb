@@ -1,4 +1,4 @@
-# Linux
+4# Linux
 
 ## cron
 * MIN (minute) HOUR (hour) DOM (day of month) MON (month) DOW (day of week) CMD
@@ -28,3 +28,7 @@
 * `tmp`: short for temporary, volatile (good for pen testing as any user can write to this)
 
 ## Passive Reconnaissance
+* `whois <url>`
+* `nslookup` Name server look up
+  * `nslookup -type=<A ip4, AAAA ip6, MX mail server> <url> <public dns>`
+* `dig <DNS> <type>` Domain Information Groper
