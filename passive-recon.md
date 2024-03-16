@@ -10,3 +10,7 @@
 ## DNSDumpster
 * https://dnsdumpster.com/
 * Site can give us more information for subdomains as well
+
+## Shodan.io
+* Can learn about network without connecting
+* Can search different technologies used
