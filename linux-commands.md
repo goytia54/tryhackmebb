@@ -32,3 +32,7 @@
 * `nslookup` Name server look up
   * `nslookup -type=<A ip4, AAAA ip6, MX mail server> <url> <public dns>`
 * `dig <DNS> <type>` Domain Information Groper
+
+## Active Recon
+* `ping <ip address>`
+  * `ping -c <num times to ping> <ip address>` can ping for a set amount of times
