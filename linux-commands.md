@@ -40,4 +40,10 @@
 * `telnet <ip> <port>` we can send messages to get more information about the server
   * once connected we can send in a `GET / HTTP/1.1` to extract information
 * `nc` or netcat, supports TCP and UDP protocols, can be a client or a server.
-  * `nc <ip> <port>` 
+  * `nc <ip> <port>`
+* `nmap`
+  * `nmap <ip1> <ip2>` to scan multiple
+  * `nmap <ip.low-high>` to scan range
+  * `nmap <ip>/<subnet>` to scan subnet
+  * `nmap -iL <text list>` list of targets
+  * `nmap -sL -n <ip range>` will list the actual ips it will scan
