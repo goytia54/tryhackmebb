@@ -47,3 +47,8 @@
   * `nmap <ip>/<subnet>` to scan subnet
   * `nmap -iL <text list>` list of targets
   * `nmap -sL -n <ip range>` will list the actual ips it will scan
+  * `nmap -sn TARGETS` to discover online hosts without port scanning
+  * `nmap -PR` indicates only ARP scans
+  * `nmap -PE` indicates only ICMP echo scans
+  * `nmap -PP` indicated only ICMP timestamp scans
+  * `nmap -PM` indicated only address mask scans
