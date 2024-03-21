@@ -39,4 +39,5 @@
 * `traceroute <ip/url>` will give you all the routers inbetween an ip/url, using increasing numbers of ttl packets, starting at 1
 * `telnet <ip> <port>` we can send messages to get more information about the server
   * once connected we can send in a `GET / HTTP/1.1` to extract information
-* `netcat` 
+* `nc` or netcat, supports TCP and UDP protocols, can be a client or a server.
+  * `nc <ip> <port>` 
