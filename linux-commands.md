@@ -55,3 +55,5 @@
   * `nmap -PS` for TCP sync, where PS can be followed by a port or `-PS21`, should run as sudo but not needed
   * `nmap -PA` for TCP Ack, need to be sudo to run this
   * `nmap -PU` for UDP ping
+  * `nmap -R` for offline hosts
+  * `nmap -n` don't want reverse dns queries
